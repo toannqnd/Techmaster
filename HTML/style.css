@@ -1,0 +1,57 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#wrapper{
+	width: 90%;
+	margin: 0 auto;
+}
+
+h3{
+	padding: 15px 0px 15px;
+	color: #33CCCC;
+	font-size: 30px;
+}
+
+p{
+
+}
+
+ul{
+	padding: 10px 0px 10px 30px;
+	list-style-image: url('http://www.eumundimarkets.com.au/Images/layout/list-style-stalls.jpg');
+}
+
+ul li{
+	padding: 5px;
+}
+
+table{
+	width: 70%;
+	border: 1px solid #E8E8E8;
+}
+
+table tr th{
+	background: #0099CC;
+	line-height: 20px;
+}
+
+table tr td{
+	border: 1px solid #E8E8E8;
+	line-height: 25px;
+}
+
+form{
+	padding-top: 20px;
+	width: 50%;
+}
+
+input[type='text']{
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+select{
+	margin: 10px;
+}
